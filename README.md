@@ -20,12 +20,12 @@ Un script sencillo en Python para crear copias de seguridad automáticas de tus 
 
 1. Clona este repositorio o descarga el archivo `back_up.py`:
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/MiguelDV84/automatization_back_up.git
 ```
 
 2. Navega al directorio del proyecto:
 ```bash
-cd <nombre-del-directorio>
+cd automatization_back_up
 ```
 
 ## Uso
